@@ -1,0 +1,6 @@
+D:\education\C#\Homework 6\Homework6_v1\Homework6_t2\bin\Debug\Homework6_t2.exe
+D:\education\C#\Homework 6\Homework6_v1\Homework6_t2\bin\Debug\Homework6_t2.pdb
+D:\education\C#\Homework 6\Homework6_v1\Homework6_t2\obj\Debug\Homework6_t2.csproj.AssemblyReference.cache
+D:\education\C#\Homework 6\Homework6_v1\Homework6_t2\obj\Debug\Homework6_t2.csproj.CoreCompileInputs.cache
+D:\education\C#\Homework 6\Homework6_v1\Homework6_t2\obj\Debug\Homework6_t2.exe
+D:\education\C#\Homework 6\Homework6_v1\Homework6_t2\obj\Debug\Homework6_t2.pdb

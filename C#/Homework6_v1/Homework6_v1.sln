@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework6_t1", "Homework6_t1\Homework6_t1.csproj", "{32753CC4-35A6-4357-A2E1-E3767F11B032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework6_t2", "Homework6_t2\Homework6_t2.csproj", "{8DE1C8CD-38EE-46AF-A80C-737F68683C3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework6_t3", "Homework6_t3\Homework6_t3.csproj", "{CAC9FF33-42D6-4EF0-9123-52764226C6E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32753CC4-35A6-4357-A2E1-E3767F11B032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32753CC4-35A6-4357-A2E1-E3767F11B032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32753CC4-35A6-4357-A2E1-E3767F11B032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32753CC4-35A6-4357-A2E1-E3767F11B032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DE1C8CD-38EE-46AF-A80C-737F68683C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE1C8CD-38EE-46AF-A80C-737F68683C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE1C8CD-38EE-46AF-A80C-737F68683C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE1C8CD-38EE-46AF-A80C-737F68683C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC9FF33-42D6-4EF0-9123-52764226C6E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC9FF33-42D6-4EF0-9123-52764226C6E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC9FF33-42D6-4EF0-9123-52764226C6E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC9FF33-42D6-4EF0-9123-52764226C6E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
